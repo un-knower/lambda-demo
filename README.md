@@ -20,5 +20,12 @@ big data lambda architecture
 
 **本人能力有限，以上仅是本人拙见，如有不当，感谢指正！**
 
+## 参考资料
+1. https://www.kancloud.cn/infoq/architect-201507/48125#_8
+2. http://blog.csdn.net/lvsaixia/article/details/51778487
+3. http://www.cbdio.com/BigData/2016-09/26/content_5288177_all.htm
+4. http://www.36dsj.com/archives/70825
+5. https://academy.datastax.com/resources/getting-started-time-series-data-modeling
+
 ## TODO
 1. 上架构图
